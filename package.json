@@ -1,7 +1,7 @@
 {
   "name": "seat-selector",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Vicente Javier Viera Guizar",
   "repository": "",
   "scripts": {
